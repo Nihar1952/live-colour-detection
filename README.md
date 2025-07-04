@@ -8,3 +8,13 @@ numpy, pandas, scipy, and opencv
 
 Package installation command:
 pip install opencv-python pandas numpy scipy
+
+Usage:
+python color.py
+Double-click anywhere in the window to detect color.
+Press Esc to exit.
+
+This project uses a licensed dataset for color names and RGB values, available on Kaggle:
+[Color Detection Dataset on Kaggle](https://www.kaggle.com/datasets/pypiahmad/color-detection-dataset)  
+Created by: [@pypiahmad](https://www.kaggle.com/pypiahmad)  
+License: Refer to the dataset's [licence.txt](https://www.kaggle.com/datasets/pypiahmad/color-detection-dataset?select=license.txt)
